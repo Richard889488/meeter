@@ -1,0 +1,12 @@
+{
+  "overlay_pos": [
+    565,
+    222
+  ],
+  "overlay_scale": 2.0,
+  "overlay_thickness": 4,
+  "overlay_enabled": true,
+  "vcam_enabled": true,
+  "overlay_step": 14,
+  "preview_enabled": false
+}
